@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+  <head>
+		<title>Flipkart Wareframe</title>
+  </head>
+		<body>
+			<center>
+				<table border="1">
+				<tr colspan="6"> <td> <img src="https://mir-s3-cdn-cf.behance.net/projects/404/a38ef0236690469.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png" height="100" width="200" alt=""> </td> 
+				
+				
+						<td>  </td>					
+					<td>
+					 <img src="https://static.vecteezy.com/system/resources/thumbnails/054/921/204/small/search-button-eye-catching-icon-design-kit-vector.jpg" height="20" width="50" alt=""> 
+
+		             </td>
+					 
+					 <td> 
+					 <input type="text" placeholder="search for products brands">
+					 </td>
+					 
+					 <td>
+						<img src="https://png.pngtree.com/png-vector/20191110/ourmid/pngtree-avatar-icon-profile-icon-member-login-vector-isolated-png-image_1978396.jpg" height="20" width="40" alt="">
+						<span> Login </span>
+					 </td>
+					 
+					 <td>
+					 <img src="https://static.vecteezy.com/system/resources/previews/024/044/738/non_2x/shopping-cart-logo-design-cart-icon-ecommerce-logo-vector.jpg" height="20" width="40" alt="">
+				     <span> Cart </span>
+					 </td>
+					 
+					 <td>
+					 <img src="https://media.istockphoto.com/id/2009809548/vector/convenience-store-line-icon-design-with-editable-stroke-suitable-for-infographics-web-pages.jpg?s=612x612&w=0&k=20&c=Fr1CcFK_ulCgB2NYmo3jWY51z5S9oWtcSGRXtHAO8m4=" height="20" width="40" alt="">
+					 <span> Become A Seller</span>
+					 
+					 </td>
+					 
+					 <td>
+					 <span>.</span> <br/> <span>.</span> <br/> <span>.</span> 
+					 </td>
+					
+					 </table>
+					 
+					 <table border="1">
+					 
+						<tr>
+						
+						<td> </td>
+						
+					
+						<td>
+						<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqRohmdjpBUcEUnSLahovlJtZR-IpaQQ2ONg&s" height="50" width="90" alt="">
+						<br/>
+						<span> Kilos </span>
+						</td>
+						
+						<td>
+							<img src="https://darlingretail.com/cdn/shop/products/1_7b64958c-304b-43bd-b759-c5366bfa9914_600x.jpg?v=1661581431" height="50" width="90" alt="">
+							<br/>
+							<span>Mobiles </span>
+						</td>
+							
+							<td>
+								<img src="https://assets.ajio.com/medias/sys_master/root/20241011/NIdr/67087fe9260f9c41e86cc8cd/-473Wx593H-700567630-multi-MODEL.jpg" height="50" width="90" alt="">
+								<br/>
+								<span> Fashion </span>
+								
+				
+               				</td>
+							
+							<td>
+							<img src="https://cdn.mos.cms.futurecdn.net/VJLFPMRL3dCwWWJPRgfTUH.jpg" height="50" width="90" alt="">
+							<br/>
+							<span>Electronics </span>
+							</td>
+							
+							<td>
+							<img src="https://hogfurniture.co/cdn/shop/articles/Home_collection.png?v=1657288179" height="50" width="90" alt="">
+							<br/>
+							<span>Furniture</span>
+							</td>
+							<td>
+								<img src="https://simg.nicepng.com/png/small/253-2530674_electronics-home-appliances-images-png.png" height="50" width="90" alt="">
+							<br/>
+								<span>applicances</span>
+							</td>
+							<td>
+								<img src="https://t3.ftcdn.net/jpg/00/01/47/28/360_F_1472821_kMjcU0El8NkcU0k7zNtlVTU0Fl8W2l.jpg" height="50" width="90" alt="">
+							<br/>
+								<span>Flight Bokings</span>
+							</td>
+							
+							<td>
+								<img src="https://i.pinimg.com/236x/04/a4/5f/04a45f8540391dd33784c77154f08b8e.jpg" height="50" width="90" alt="">
+								<br/>
+								<span>Beauty and Toys </span>
+							</td>
+							<td>
+									<img src="https://www.tatacapital.com/blog/wp-content/uploads/2019/12/gearless-two-wheelers-in-india-banner.png" height="50" width="90" alt="">
+							<br/>
+								<span>Two Wheelers </span>
+							</td>
+							
+							<td> </td>
+						
+						<table border="1">
+							<tr colspan="4">
+						
+						
+							<td>
+								<span> ...</span>
+								
+							</td>
+							
+							   
+							<td>
+								<img src="https://media.designcafe.com/wp-content/uploads/2021/09/15180410/pop-ceiling-designs-for-hall.jpg" height="200" width="875" alt="">
+								
+							</td>
+							 
+							 <td>
+							 <span> ... </span>
+							 </td>
+							   
+							<hr/>
+							   
+						
+							</tr>
+							    
+							 <td>
+								
+							 </td>
+						</tr>
+						</table>
+			</center>
+		</body>
+</html> 

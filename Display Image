@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>display</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+     
+    <section>
+        <div class="p1 img-1"></div>
+    </section>
+    <section> 
+        <div class="contant">winter vacations </div>
+        </section>
+        <section>
+            <div class="p1 img-2"></div>
+        </section>
+        <section>
+            <div class="contant"> Enjoy Your Vacations</div>
+        </section>
+        <section> <div class="p1 img-3"></div>
+        </section>
+</body>
+</html>
